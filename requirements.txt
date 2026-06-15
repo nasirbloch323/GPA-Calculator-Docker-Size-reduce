@@ -1,0 +1,6 @@
+streamlit
+
+# Tarika 1 — Version ke saath ✅
+flask==2.3.3
+
+
